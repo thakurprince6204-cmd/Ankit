@@ -1,0 +1,7 @@
+{
+  "name": "PE-DICT · Physical Education Dictionary",
+  "description": "Comprehensive Physical Education Dictionary & Search Engine for School Students, Higher Education (UG/PG), and Competitive Exams (TGT, PGT, UGC-NET).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
